@@ -9,7 +9,7 @@
 import UIKit
 import Parse
 
-class TableViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
+class TableViewController: UIViewController {
     
     // Declare members of a class at the top
     

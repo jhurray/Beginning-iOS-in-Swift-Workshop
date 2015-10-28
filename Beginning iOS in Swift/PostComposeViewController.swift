@@ -9,7 +9,7 @@
 import Parse
 import UIKit
 
-class PostComposeViewController: UIViewController, UITextFieldDelegate {
+class PostComposeViewController: UIViewController {
 
     // UI Elements
     let titleTextField = UITextField()
